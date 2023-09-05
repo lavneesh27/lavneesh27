@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Commerece platform](https://gitlab.codetrade.io/trainingtasks/lavneesh-rajput-training-tasks/-/tree/e-commerce-webapi?ref_type=heads)
 
-- 🌱 I’m currently learning **Frontend Development, Dotnet Framework**
+- 🌱 I’m currently learning **Frontend Development, Asp Dotnet**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lavneesh27](https://github.com/lavneesh27)
 
