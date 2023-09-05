@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **lavirajput376@gmail.com**
 
-- ⚡ Fun fact **Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
