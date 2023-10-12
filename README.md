@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavneesh27" alt="lavneesh27" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerece platform](https://gitlab.codetrade.io/trainingtasks/lavneesh-rajput-training-tasks/-/tree/e-commerce-webapi?ref_type=heads)
+- 🔭 I’m currently working on [E-Commrece platform](https://gitlab.codetrade.io/trainingtasks/lavneesh-rajput-training-tasks/-/tree/e-commerce-webapi?ref_type=heads)
 
 - 🌱 I’m currently learning **Frontend Development, Asp Dotnet**
 
